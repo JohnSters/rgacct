@@ -45,8 +45,7 @@
       <li>Annual preparation of year end Employer Returns EMP501</li>
       <li>Compensation fund returns yearly.</li>
     </ul>
-
-    <v-btn class="mt-8 green--text">Need Help? Contact us Today!</v-btn>
+    <v-btn to="/contact" class="mt-8 green--text">Need Help? Contact us Today!</v-btn>
   </v-container>
 </template>
 
