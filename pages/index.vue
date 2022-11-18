@@ -17,6 +17,9 @@
     <div class="hidden-sm-and-down" id="tree3">
       <img src= "/tree.png">
     </div>
+    <div class="hidden-sm-and-down" id="tree4">
+      <img src= "/tree.png" height="60">
+    </div>
   </v-container>
 </template>
 
@@ -52,6 +55,14 @@ html, body {
 #tree3 {
   position:fixed;
   right: 84%;
+  bottom: 44px;
+  margin: 0;
+  padding: 0;
+}
+
+#tree4 {
+  position:fixed;
+  right: 93%;
   bottom: 44px;
   margin: 0;
   padding: 0;
