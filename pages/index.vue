@@ -4,7 +4,7 @@
       <v-img src="/logo/logo.svg"></v-img>
       <p class="blue-grey--text display-1 text-center mt-8">"Trust is earned when actions meets words"</p>
     </v-card>
-    <v-card class="landing-mb hidden-md-and-up" style="margin-top: 150px" flat>
+    <v-card class="landing-mb hidden-md-and-up" style="margin-top: 120px" flat>
       <v-img src="/logo/logo.svg"></v-img>
       <p class="blue-grey--text  text-center mt-3">"Trust is earned when actions meets words"</p>
     </v-card>
