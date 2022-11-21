@@ -15,7 +15,9 @@
         <Nuxt />
       </v-container>
     </v-main>
-    <v-footer padless>
+    <v-img src="/plant.png" class="ml-n4 hidden-md-and-up" style="margin-bottom: 55px" width="100" contain></v-img>
+    <v-img src="/plant.png" class="ml-n4 hidden-sm-and-down" style="margin-bottom: 55px" width="200" contain></v-img>
+    <v-footer fixed padless>
       <v-col
         class="text-center green white--text"
         cols="12"
@@ -36,4 +38,5 @@ export default {
 </script>
 
 <style>
+
 </style>
