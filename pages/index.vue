@@ -1,8 +1,8 @@
 <template>
   <v-container>
     <v-card class="ma-auto hidden-sm-and-down text-center" flat>
-      <v-img class="mt-12" src="/logo/logo.svg" height="400" contain></v-img>
-      <v-img src="/plant.png" class="plant ml-n4 hidden-sm-and-down" width="180" contain></v-img>
+      <v-img src="/logo/logo.svg" height="400" contain></v-img>
+      <v-img src="/plant.png" class="plant ml-n4 hidden-sm-and-down" width="150" contain></v-img>
     </v-card>
     <v-card class="ma-auto hidden-md-and-up text-center" flat>
       <v-img src="/logo/logo.svg" height="350" contain></v-img>
