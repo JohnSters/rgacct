@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <v-card class="landing hidden-sm-and-down pa-8 mt-lg-8" shaped>
+    <v-card class="landing hidden-sm-and-down mt-8 mb-12 pa-8" shaped>
       <v-img class="ma-auto mt-6 mb-3" src="/christo.png" width="200"></v-img>
       <p class="mt-8 text-center"><b class="green--text"></b> Christo Thompson</p>
       <p class="text-center">Professional Accountant (SA) / Professional Tax Practitioner (SA)</p>
@@ -32,7 +32,7 @@
       <p class="text-center">Specializes in Tax and accounting services for small and medium enterprises mainly in the agricultural
         sector from 2009. Very passionate Show budgie breeder since 2012. Current BSSA Treasurer.</p>
       <p class="text-center"><b class="green--text">Tel:</b> +27 72 501 5014</p>
-      <p class="text-center mb-8"><b class="green--text">email:</b> christo@rgacct.co.za
+      <p class="text-center"><b class="green--text">email:</b> christo@rgacct.co.za
         <v-tooltip bottom>
           <template v-slot:activator="{ on, attrs }">
             <v-icon
