@@ -15,7 +15,6 @@
         <Nuxt />
       </v-container>
     </v-main>
-    <v-img src="/plant.png" class="ml-n4 hidden-sm-and-down" style="margin-bottom: 55px" width="200" contain></v-img>
     <v-footer fixed padless>
       <v-col
         class="text-center green white--text"
